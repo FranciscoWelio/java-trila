@@ -8,7 +8,7 @@ public class ContaTerminal {
         String Agencia;
         String NomeCliente;
         Double Saldo;
-       System.out.println("Olá, bem vindo!\n\nQual é o seu nome?");
+       System.out.println("Olá, bem vindo!\n\n\nQual é o seu nome?");
        NomeCliente = scan.nextLine();
        System.out.println("Em que Agência você deseja criar uma conta?");
        Agencia = scan.next();
