@@ -20,7 +20,8 @@ public class Cursos {
     public void setCargaHoraria(int cargaHoraria) {
         this.cargaHoraria = cargaHoraria;
     }
-    public void CalcularXp(){
-
+    public int CalcularXp(int horasAssistidas, int custoXP){
+        int xp = horasAssistidas * custoXP;
+        return xp;
     }
 }

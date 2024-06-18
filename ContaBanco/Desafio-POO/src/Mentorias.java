@@ -24,4 +24,5 @@ public class Mentorias {
         int xp = horasAssistidas * custoXP;
         return xp;
     }
+    
 }
