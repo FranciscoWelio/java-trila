@@ -1,0 +1,25 @@
+{
+    "name": "Welio",
+    "account": {
+        "number": "000000-0",
+        "agency": "0000",
+        "balance": 1324.64,
+        "limit": 1000.00
+    },
+    "features": [
+        {
+            "icon": "",
+            "description": "PIX"
+        }
+    ],
+    "card": {
+        "number": "xxxx xxxx xxxx xxx0",
+        "limit": 1000.00
+    },
+    "news": [
+        {
+            "icon":"URL",
+            "description":"NewsPapper"
+        }
+    ]
+}
